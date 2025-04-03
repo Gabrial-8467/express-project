@@ -1,0 +1,24 @@
+.container {
+  max-width: 300px;
+  width: 280px;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.nav-item .nav-link {
+  color: rgb(100, 98, 98);
+  font-size: 15px;
+  padding: 15px;
+}
+
+ .nav-link:hover {
+  color: #11142d;
+  font-size: 15px;
+  background-color: #d4d5d6;
+  border-radius: 5px;
+}
+
+p {
+  color: black !important;
+  font-size: 15px !important;
+}
